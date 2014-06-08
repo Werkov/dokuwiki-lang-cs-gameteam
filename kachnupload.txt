@@ -1,0 +1,9 @@
+===== Vaše šifra =====
+
+Vaše **{{@YEAR@:sifry:@USER@:sifra.pdf|odevzdaná šifra}}**.
+Níže můžete uploadovat vaši šifru ve formátu PDF (pokud zvolíte, bude původní šifra přepsána).
+
+{{upload>@YEAR@:sifry:@USER@:sifra.pdf|OVERWRITE|FIXED}}
+
+
+
