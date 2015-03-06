@@ -1,3 +1,4 @@
 ====== Přihlášení ======
 
-Momentálně nejste přihlášen(a)! Prosím vložte své identifikační údaje níže. Pro přihlášení musíte mít zapnuté cookies.
+Pro přihlášení prosím vložte své identifikační údaje níže. Číslo týmu naleznete v [[tymy|seznamu týmů]].
+(Mimochodem, musíte mít zapnuté cookies.)
