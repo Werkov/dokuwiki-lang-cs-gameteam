@@ -342,3 +342,5 @@ $lang['currentns']             = 'Aktuální jmenný prostor';
 $lang['searchresult']          = 'Výsledek hledání';
 $lang['plainhtml']             = 'Čisté HTML';
 $lang['wikimarkup']            = 'Wiki jazyk';
+$lang['puzzleupload']          = 'Nahrát šifru';
+$lang['puzzlefile']            = 'Soubor šifry';
