@@ -1,9 +1,8 @@
 ===== Vaše šifra =====
 
-Vaše **{{@YEAR@:sifry:@USER@:@TEAMID@-sifra.pdf|odevzdaná šifra}}**.
-Níže můžete uploadovat vaši šifru ve formátu PDF (nezapomeňte též vyplnit řešení šifry).
+{{uploadinfo>@YEAR@:sifry:@USER@:@TEAMID@-sifra.pdf}}
 
-{{upload>@YEAR@:sifry:@USER@:@TEAMID@-sifra.pdf|FIXED|METADATA:result=Tajenka;solution.text=Popis řešení}}
+{{upload>@YEAR@:sifry:@USER@:@TEAMID@-sifra.pdf|FULLOVERWRITE|FIXED|METADATA:result=Tajenka;solution.text=Popis řešení}}
 
 
 
