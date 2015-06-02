@@ -2,7 +2,7 @@
 
 {{uploadinfo>@YEAR@:sifry:@USER@:@TEAMID@-sifra.pdf}}
 
-{{upload>@YEAR@:sifry:@USER@:@TEAMID@-sifra.pdf|FULLOVERWRITE|FIXED|METADATA:result=Tajenka;solution.text=Popis řešení}}
+{{upload>@YEAR@:sifry:@USER@:@TEAMID@-sifra.pdf|FULLOVERWRITE|FIXED|METADATA:result=Tajenka;solution.text=Stručný popis řešení}}
 
 
 
