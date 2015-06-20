@@ -2,7 +2,14 @@
 
 {{uploadinfo>@YEAR@:sifry:@USER@:@TEAMID@-sifra.pdf}}
 
-{{upload>@YEAR@:sifry:@USER@:@TEAMID@-sifra.pdf|FULLOVERWRITE|FIXED|METADATA:result=Tajenka;solution.text=Stručný popis řešení}}
+{{upload>@YEAR@:sifry:@USER@:@TEAMID@-sifra.pdf|FULLOVERWRITE|FIXED|METADATA:result=Tajenka;solution.text=Stručný popis řešení;hint=Zde uploadujte vaši šifru ve formátu PDF (nezapomeňte též vyplnit řešení šifry).}}
+
+===== Fotografie týmu =====
+
+{{@YEAR@:sifry:@USER@:@TEAMID@-fotka.jpg?w=160}}
+
+{{upload>@YEAR@:sifry:@USER@:@TEAMID@-fotka.jpg|FULLOVERWRITE|FIXED|METADATA:fieldset=Nahrát fotografii;fileupload=Soubor fotky (.jpg);hint=Zde prosím nahrajte fotku vašeho týmu. Je to pruda, ale přípona musí být '.jpg' (ne '.jpeg' ani jiné).}}
+
 
 
 
