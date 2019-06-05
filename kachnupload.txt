@@ -2,7 +2,7 @@
 
 {{uploadinfo>@YEAR@:sifry:@USER@:@TEAMID@-sifra.pdf}}
 
-{{upload>@YEAR@:sifry:@USER@:@TEAMID@-sifra.pdf|FULLOVERWRITE|FIXED|METADATA:result=Tajenka;solution.text=Stručný popis řešení;hint=Zde uploadujte vaši šifru ve formátu PDF (nezapomeňte též vyplnit řešení šifry).}}
+{{upload>@YEAR@:sifry:@USER@:@TEAMID@-sifra.pdf|FULLOVERWRITE|FIXED|METADATA:result=Tajenka;solution.text=Stručný popis řešení;testing.text=Poznámky k testování;hint=Zde uploadujte vaši šifru ve formátu PDF (nezapomeňte též vyplnit řešení šifry).}}
 
 
 
